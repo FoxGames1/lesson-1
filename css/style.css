@@ -1,0 +1,40 @@
+body{
+   display: -webkit-flex;
+   display: -moz-flex;
+   display: -ms-flex;
+   display: -o-flex;
+   display: flex;
+   -ms-align-items: center;
+   align-items: center;
+}
+
+.name{
+   font-size: 50px;
+   font-family: 'Arial', sans-serif;
+   width: 465px;
+}
+
+.under{
+   font-size: 18px;
+   font-family: 'Arial', sans-serif;
+   width: 423px;
+   margin: 30px 0;
+}
+
+.button{
+   width: 219px;
+   height: 69px;
+   padding: 22px 70px 22px 70px;
+   border-radius: 100px;
+   background-color: #FF6861;
+   color: #fff;
+   font-size: 18px;
+   font-weight: 700;
+   display: block;
+   text-align: center;
+}
+.photo{
+   width: 465px;
+   height: 465px;
+   margin-left: 180px;
+}
